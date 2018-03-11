@@ -19,3 +19,5 @@ Run:
 1. go to the browser and GET http://YOUR_IP:1234/temp
 1. go to the browser and GET http://YOUR_IP:1234/humidity
 
+[![humidity temperature server](https://img.youtube.com/vi/myAJym105Ew/0.jpg)](https://youtu.be/myAJym105Ew)
+
